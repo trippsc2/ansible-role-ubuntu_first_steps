@@ -1,13 +1,13 @@
 <!-- BEGIN_ANSIBLE_DOCS -->
 
-# Ansible Role: trippsc2.ubuntu_first_steps
-This role performs first steps on a freshly installed Ubuntu system.
+# Ansible Role: ansible-role-ubuntu_first_steps
+DEPRECATED: Use trippsc2.first_steps.ubuntu instead.
 
 ## Requirements
 
 | Platform | Versions |
 | -------- | -------- |
-| Ubuntu | focal, jammy, noble |
+| Ubuntu | <ul><li>focal</li><li>jammy</li><li>noble</li></ul> |
 
 ## Dependencies
 
